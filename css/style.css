@@ -1,0 +1,21 @@
+*{
+    padding:0; /*espaçamento interno*/
+    margin:0; /*espaçamento externo*/
+}
+
+body{
+    background-color: #ccc;
+}
+
+h1{
+    text-align: center;
+    font-size: 18px;
+    color: red;
+    text-shadow: 2px 2px 5px #d1fa8e; /*sombra no texto*/
+}
+
+label{
+    width: 140px; /*largura*/
+    display: inline-block;
+    text-align: right;
+}
